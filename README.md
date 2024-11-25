@@ -42,7 +42,7 @@ Her görselin, nesnenin türü ve konumu hakkında bilgi içeren etiketlerle bir
 
 ## 🚀 Kurulum Talimatları
 
-Proje Google Colab ortamında çalışacak şekilde yapılandırılmıştır, bu yüzden özel bir kurulum gerekmemektedir. Colab'da projenizi başlatmak için aşağıdaki adımları takip edebilirsiniz.
+Proje Google Colab ortamında çalışacak şekilde yapılandırılmıştır, bu yüzden özel bir kurulum gerekmemektedir. İndirdikten sonra Colab üzerinden çalıştırılabilir. Ek olarak Vs Code ile de çalıştırılabilir.
 
 
 ### 📸 Ekran Görüntüleri
