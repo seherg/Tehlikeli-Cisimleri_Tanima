@@ -50,5 +50,12 @@ Aşağıda modelin tespit ettiği nesnelerin örnek ekran görüntülerini göre
 
 ![output](https://github.com/user-attachments/assets/4b9f0806-8896-4e1e-8a7a-6e22922a9bc6)
 
+## 🔧 Yapılabilecek İyileştirmeler
+
+- ⏳ **Epoch Sayısı Artırılabilir**: Daha uzun eğitim süreçleri, modelin doğruluğunu artırabilir.  
+- 🖼️ **Görsel Sayısı Artırılabilir**: Daha büyük bir veri kümesiyle modelin genelleme kabiliyeti iyileştirilebilir.  
+- 🎭 **Sınıf Çeşitlendirilebilir**: Yeni sınıflar eklenerek modelin kapsamı genişletilebilir.  
+- 🚀 **Daha Güçlü GPU Kullanılabilir**: Yüksek işlem gücü sağlayan GPU'lar, eğitim süresini kısaltarak daha karmaşık modellerin eğitilmesine olanak tanır.  
+
 ### 🤝 Katkı Sağlama
 Projenize katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Katkılarınız için teşekkür ederiz! 🎉
