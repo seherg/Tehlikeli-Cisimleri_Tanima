@@ -58,4 +58,4 @@ Aşağıda modelin tespit ettiği nesnelerin örnek ekran görüntülerini göre
 - 🚀 **Daha Güçlü GPU Kullanılabilir**: Yüksek işlem gücü sağlayan GPU'lar, eğitim süresini kısaltarak daha karmaşık modellerin eğitilmesine olanak tanır.  
 
 ### 🤝 Katkı Sağlama
-Projenize katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Katkılarınız için teşekkür ederiz! 🎉
+Projenize katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Katkılarınız için teşekkür ederim! 🎉
